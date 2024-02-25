@@ -1,3 +1,4 @@
+Different models will be added in due time!
 # Low-Poly Avatar
 
 This is a low-poly avatar created using Blender.
