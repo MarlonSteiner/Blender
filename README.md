@@ -24,5 +24,5 @@ You can use the avatar in various ways:
 
 - Avatar design by "PIXXO 3D".
   
-  website: `https://www.youtube.com/watch?v=sbCW0Cs7aI8`
+  tutorial website: `https://www.youtube.com/watch?v=sbCW0Cs7aI8`
 - Created using Blender (https://www.blender.org/).
